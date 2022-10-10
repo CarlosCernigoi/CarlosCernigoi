@@ -6,8 +6,7 @@
 - 💬 Ask me about JavaScript, Node.js, React, Redux, PostgreSQL, Sequelize, SCRUM, PowerBuilder, SQL
 - 💬 About me: Expert in analysis and application development. My goal is to bring experience, creativity and leadership to new challenges in the software industry, working in an environment of continuous professional growth. I worked for many years in medium and long range development projects. I led projects of maintenance and updating of solutions in the financial industry, providing improvements and adjustments to regulatory changes and customer needs. With critical thinking, motivation, ease of learning and teamwork. Excellent communication skills and adaptability to changing requirements.
 I like to keep up to date with technologies applied to software, constantly learning and absolutely enthusiastic about my work.
-- 📫 How to reach me: carloscernigoi@gmail.com
-- 📫 Also at: www.linkedin.com/in/carlos-cernigoi
+- 📫 How to reach me: www.linkedin.com/in/carlos-cernigoi
 - ⚡ Fun fact: Suddenly, but not magically, all begins to work
 <!--
 **CarlosCernigoi/CarlosCernigoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
